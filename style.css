@@ -59,7 +59,6 @@ body{
 .player{
     width: 330px;
     height: 474px;
-    justify-content: center;
 }
 .player img{
     width: 300px;
