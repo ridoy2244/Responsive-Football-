@@ -160,7 +160,7 @@ body{
         
 @media only screen and (max-width:688px) {
     .container{
-        width: 100%;           /*  header midea queries */
+        width:100%          /*  header midea queries */
     }
     .header-row{
         flex-direction: column;
@@ -205,10 +205,7 @@ body{
     }
 
     /* footer section media queries */
-    .footer-item{
-        width: 70%;
-        margin-left: 60px;
-    }
+   
     
 }
  /* midea queries end */
