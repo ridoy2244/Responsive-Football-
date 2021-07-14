@@ -124,7 +124,7 @@ body{
 
    /* footer style */
 
-   footer{
+   .footer-item{
        width: 100%;
        
    }
@@ -196,6 +196,7 @@ body{
         width: 295px;
         height: 80px;
         font-size: 30px;
+        margin-top: -30px;
     } 
     .highlights-cul-2 img{
         width: 328px;
@@ -203,9 +204,11 @@ body{
         margin-right: 70px;
     }
 
-
-.footer-section{
-    display: none;
+    /* footer section media queries */
+    .footer-item{
+        width: 70%;
+        margin-left: 60px;
+    }
+    
 }
-   
-}
+ /* midea queries end */
