@@ -38,9 +38,13 @@ body{
    color: white;
    font-size: 16px;
    font-weight: 500px;
-   padding: 8px 30px;
+   padding: 8px 20px;
    background-color: #E02C6D;
-   border-radius: 5px;
+   border-radius: 25px;
+   transition: 0.5s;
+}
+.btn:hover{
+    background: #563434;  
 }
 .btn .fas{
     padding-left: 8px;
