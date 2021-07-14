@@ -159,6 +159,10 @@ body{
         /* mobile devices */
         
 @media only screen and (max-width:700px) {
+    body{
+        margin: 0;
+        padding: 0;
+    }
     .container{
         width:100%          /*  header midea queries */
     }
