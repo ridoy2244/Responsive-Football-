@@ -158,7 +158,7 @@ body{
 
         /* mobile devices */
         
-@media only screen and (max-width:688px) {
+@media only screen and (max-width:700px) {
     .container{
         width:100%          /*  header midea queries */
     }
@@ -205,7 +205,9 @@ body{
     }
 
     /* footer section media queries */
-   
+    .footer-section{
+        width: 100%;
+    }
     
 }
  /* midea queries end */
